@@ -51,4 +51,4 @@ Seguidament s'assigna un valor baix al pin. El que farà que el led deixi de rom
 
 ## DIAGRAMA DE TEMPS
 
-<img src="diagrama_p1.png" width="480" align="center">
+<img src="diagrama1.png" width="480" align="center">
