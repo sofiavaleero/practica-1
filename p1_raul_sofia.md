@@ -2,7 +2,7 @@
 
 L'objectiu de la pràctica és entendre algunes funcions bàsiques d'Arduino: el setup i loop, sortides per terminal o l'assignació i utilització de pins.
 
-``cpp 
+```cpp 
 #include <Arduino.h>
 #define PIN 16
 
