@@ -47,8 +47,8 @@ Seguidament s'assigna un valor baix al pin. El que farà que el led deixi de rom
 
 ## SORTIDA PEL TERMINAL
 
-<img src="terminal1.png" width="480" align="center">
+<img src="terminal_p1.png" width="480" align="center">
 
 ## DIAGRAMA DE TEMPS
 
-<img src="diagrama1.png" width="480" align="center">
+<img src="diagrama_p1.png" width="480" align="center">
